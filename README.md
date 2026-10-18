@@ -2,7 +2,8 @@
 
 <a href="https://github.com/Kabir2007"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&lines=Kabir+Gambhir;ML+%C2%B7+Transformers+%C2%B7+Multi-Agent+Systems;Learning+by+building+it+from+scratch" alt="typing intro" /></a>
 
-<img src="assets/profile-card.svg" alt="Kabir Gambhir profile card" width="860" />
+<img src="assets/profile-card.svg" alt="Kabir Gambhir profile card" width="860" />![Uploading profile-card.svg…]()
+
 
 <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kabirgambhir2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -15,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a second-year Mathematics & Computing student at **Delhi Technological University**. I like understanding how things work by building them myself: models on a small compute budget, data pipelines, and the probability and statistics underneath them. Outside code, I run finances for a debating society and take part in MUNs.
+I'm a third-year Mathematics & Computing student at **Delhi Technological University**. I like understanding how things work by building them myself: models on a small compute budget, data pipelines, and the probability and statistics underneath them. Outside code, I run finances for a debating society and take part in MUNs.
 
 ```text
 $ cat interests.txt
