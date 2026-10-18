@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Kabir2007"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&lines=Kabir+Gambhir;ML+%C2%B7+Transformers+%C2%B7+Multi-Agent+Systems;Learning+by+building+it+from+scratch" alt="typing intro" /></a>
-<img width="900" height="470" alt="profile-card" src="https://github.com/user-attachments/assets/be4f23a9-a859-4ef3-91a8-082db76dc209" />
+<img src="assets/profile-card.svg" alt="Kabir Gambhir profile card" width="900" />
 
 
 <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
