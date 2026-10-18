@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1004" height="529" viewBox="0 0 1004 529" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a09"/><stop offset="1" stop-color="#14100c"/></linearGradient>
+<linearGradient id="art" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fcd34d"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<style>@keyframes s{0%{transform:translateY(0)}100%{transform:translateY(377px)}}.scan{animation:s 4s linear infinite}@keyframes b{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:b 1s steps(1) infinite}</style>
+<clipPath id="clip"><rect x="38" y="78" width="462" height="389"/></clipPath>
+</defs>
+<rect width="1004" height="529" rx="6" fill="url(#bg)"/><rect width="1004" height="529" rx="6" fill="url(#grid)"/>
+<rect x=".75" y=".75" width="1002" height="527.5" rx="6" fill="none" stroke="#f59e0b" stroke-opacity=".35"/>
+<rect x="0" y="0" width="6" height="529" fill="#f59e0b"/>
+<text x="44" y="40" font-size="11" fill="#f59e0b" letter-spacing="3">SUBJECT_001</text>
+<text x="494" y="40" font-size="11" fill="#78716c" text-anchor="end">28.61°N  77.21°E</text>
+<line x1="44" y1="52" x2="494" y2="52" stroke="#fff" stroke-opacity=".1"/>
+<text xml:space="preserve" font-size="6.4" fill="url(#art)" clip-path="url(#clip)">
+<tspan x="44" y="92.0" textLength="258.8" lengthAdjust="spacing">                                                  ..::::::::.    ....</tspan>
+<tspan x="44" y="99.7" textLength="285.0" lengthAdjust="spacing">                                          ::::.:::::::::::----------==***=:.</tspan>
+<tspan x="44" y="107.4" textLength="296.2" lengthAdjust="spacing">                                    .::-=-::::::::::::::::::::::::------=--=+::</tspan>
+<tspan x="44" y="115.1" textLength="307.5" lengthAdjust="spacing">                                   :---:::::::::::::::::::::::::---------::----=::</tspan>
+<tspan x="44" y="122.8" textLength="326.2" lengthAdjust="spacing">                                .:--:::::::::::::::::::::::::::----------::-------=--:.</tspan>
+<tspan x="44" y="130.5" textLength="326.2" lengthAdjust="spacing">                                :--::::::::::::::::::::::::::----=-====---::::--::--==-</tspan>
+<tspan x="44" y="138.2" textLength="326.2" lengthAdjust="spacing">                                :-:::::::::::::::::::::::--=++++********+==--:------:-:</tspan>
+<tspan x="44" y="145.9" textLength="318.8" lengthAdjust="spacing">                                ::::::::::::::::::::::::--=***********+++====+++-::::</tspan>
+<tspan x="44" y="153.6" textLength="322.5" lengthAdjust="spacing">                                 ::::::::::::::::::::::-=********++=-===----=+=--::  .</tspan>
+<tspan x="44" y="161.3" textLength="326.2" lengthAdjust="spacing">                                 :::::::-==++---::::::--++****++====--=--:=++++*+:   .-</tspan>
+<tspan x="44" y="169.0" textLength="326.2" lengthAdjust="spacing">                                  ::::::*+***===+***=::-+**********+++==+++++*+***:  ++</tspan>
+<tspan x="44" y="176.7" textLength="318.8" lengthAdjust="spacing">                                   .:::::-++++==+****==++*************++++++*******=.</tspan>
+<tspan x="44" y="184.4" textLength="307.5" lengthAdjust="spacing">                                    .::::::-***+**++*++++*********++++==*****+-::.</tspan>
+<tspan x="44" y="192.1" textLength="303.8" lengthAdjust="spacing">                                      ::::::-++++++++++++++++++**##*%%%*%%%%%##*:</tspan>
+<tspan x="44" y="199.8" textLength="303.8" lengthAdjust="spacing">                                        ..:-=+++++++++++++++*#%%%%%%%@@@@@@@@@%**</tspan>
+<tspan x="44" y="207.5" textLength="303.8" lengthAdjust="spacing">                                         -%**+**+++++------**%%%%%%%%@@%%%%****+=</tspan>
+<tspan x="44" y="215.2" textLength="303.8" lengthAdjust="spacing">                              ......::::*****+++++++++----+**++++#%%%@%%***+++++-</tspan>
+<tspan x="44" y="222.9" textLength="303.8" lengthAdjust="spacing">                       ....:::::::::::::***+++++*+++++==---++---::+********++++=.</tspan>
+<tspan x="44" y="230.6" textLength="303.8" lengthAdjust="spacing">              .....::::::::::::::::::::::=***++++++++++=---:::::::********+++++-.</tspan>
+<tspan x="44" y="238.3" textLength="341.2" lengthAdjust="spacing">          ..::::::::::::::::...:::.::::::::-***++++++=--=====--:::=******+++++++: .....::..</tspan>
+<tspan x="44" y="246.0" textLength="356.2" lengthAdjust="spacing">      ..::::::::::::::::::::    .   ::::::: ..:-+*++==+**++++==:. :=++++++*****++=::.    .::::.</tspan>
+<tspan x="44" y="253.7" textLength="367.5" lengthAdjust="spacing">   .::::::::::::::.   .:. ::        ... ...        .:::--::::.      .:=++******--:::.::...:::::::.</tspan>
+<tspan x="44" y="261.4" textLength="371.2" lengthAdjust="spacing"> ::::::::::::::...                                                   :.:=+++--:-:::::::::  ........</tspan>
+<tspan x="44" y="269.1" textLength="375.0" lengthAdjust="spacing">:::::::::::  ..                                                                  :::::-:.          :</tspan>
+<tspan x="44" y="276.8" textLength="378.8" lengthAdjust="spacing">::::::::::.                                                              -++*****+====+++:.         .</tspan>
+<tspan x="44" y="284.5" textLength="348.8" lengthAdjust="spacing">::::::..                                                                 .=+********++++++=:.</tspan>
+<tspan x="44" y="292.2" textLength="352.5" lengthAdjust="spacing">.::..                                                                     .+++*****+++++++++=:</tspan>
+<tspan x="44" y="299.9" textLength="386.2" lengthAdjust="spacing">*****+=----::.                                                             :+++++*****++++++++====--::.</tspan>
+<tspan x="44" y="307.6" textLength="390.0" lengthAdjust="spacing">***********+++++-:...                                                       =+++++++++++++++++++++*****:</tspan>
+<tspan x="44" y="315.3" textLength="393.8" lengthAdjust="spacing">********++++++=-:. :::                                                      .+++++++++++++++++++++=++*++:</tspan>
+<tspan x="44" y="323.0" textLength="397.5" lengthAdjust="spacing">******++++++=--.   ::.                                                       .=++++++++++++++++++++++++++.</tspan>
+<tspan x="44" y="330.7" textLength="401.2" lengthAdjust="spacing">++++++====---:     .:                                                         .=+++++++++++++++++++++=----.</tspan>
+<tspan x="44" y="338.4" textLength="405.0" lengthAdjust="spacing">+==--:::--:.                                                                   .:====++++++++++++++++++----.</tspan>
+<tspan x="44" y="346.1" textLength="405.0" lengthAdjust="spacing">++++++===::.                                                                     .:-----==++++++++++++=----:</tspan>
+<tspan x="44" y="353.8" textLength="401.2" lengthAdjust="spacing">**+***++++===--:::...                                                              .:---------==++++++----:</tspan>
+<tspan x="44" y="361.5" textLength="397.5" lengthAdjust="spacing">**********++++++======-::::..                                         .....          .:::::::-----====----</tspan>
+<tspan x="44" y="369.2" textLength="397.5" lengthAdjust="spacing">****************+**+++++++=++++===-:::::::::...          . .:---=+******************+======*=:::::::---::.</tspan>
+<tspan x="44" y="376.9" textLength="450.0" lengthAdjust="spacing">++++++++*****++++++++++++++++++++++++++++++*************==*****************%%%%**%##########+-::::::::-+++===--:::::::::</tspan>
+<tspan x="44" y="384.6" textLength="450.0" lengthAdjust="spacing">++==++++++++++++=====++++++++++++++++++++++*************-+***********************************=:        .::+**%**%*******</tspan>
+<tspan x="44" y="392.3" textLength="450.0" lengthAdjust="spacing">:::::::---======-------------======++++++++++++********+-+***********************++++==----:.  .      . :::-*%**********</tspan>
+<tspan x="44" y="400.0" textLength="450.0" lengthAdjust="spacing">::::....  . ..::::::::::::::::::::::----==++++++***+++++-+++**++++***********++=====--==-:. .. ..     ::::::-=**********</tspan>
+<tspan x="44" y="407.7" textLength="450.0" lengthAdjust="spacing">:::::::::::::::::::::.   .               ...:::::::---==--++++++++++++++++**++++==--::::.    ..: ..::::::------=********</tspan>
+<tspan x="44" y="415.4" textLength="450.0" lengthAdjust="spacing">:::::::::::::::::::::::::......::::..   .               ..::==++==+++++++++=-----::.        .....::::---------==-+******</tspan>
+<tspan x="44" y="423.1" textLength="450.0" lengthAdjust="spacing">::::::::::::::::::::::::::::::::....  ......::::.....:::::::::::::.....:::                 ::::::::----------==---=*****</tspan>
+<tspan x="44" y="430.8" textLength="450.0" lengthAdjust="spacing">:::::::::::::::::::::::::::::::::.::::::::::::::::::::::::::::::::::::::::.         ...   :::::--------------=+----:-***</tspan>
+<tspan x="44" y="438.5" textLength="450.0" lengthAdjust="spacing">:::::::::::::::::::::::::..::::::::::::::::::::::::::::::::::::::::::::::::.           ...:::------------------:-----==*</tspan>
+<tspan x="44" y="446.2" textLength="450.0" lengthAdjust="spacing">::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.:::: .        .. .:::-------++++=------===----++=</tspan>
+<tspan x="44" y="453.9" textLength="450.0" lengthAdjust="spacing">:::::::::::::::::::::::::::::::::::::::::.::::::::::::::::::::::::::::::::::.:::.:::::::::--==-------++-=+====-===+===+*</tspan>
+<tspan x="44" y="461.6" textLength="450.0" lengthAdjust="spacing">-:::-:--:-:-:-:-:---::::::::::::::::     :::::::::::::::::::::::::::::----------::---------++++++++++++++++++++----+++++</tspan>
+</text>
+<g clip-path="url(#clip)"><rect class="scan" x="38" y="78" width="462" height="3" fill="#fcd34d" fill-opacity=".25"/></g>
+<path d="M32 94V72H54" fill="none" stroke="#fcd34d" stroke-width="2"/>
+<path d="M506.0 94V72H484.0" fill="none" stroke="#fcd34d" stroke-width="2"/>
+<path d="M32 447.3V469.3H54" fill="none" stroke="#fcd34d" stroke-width="2"/>
+<path d="M506.0 447.3V469.3H484.0" fill="none" stroke="#fcd34d" stroke-width="2"/>
+<text x="44" y="491.3" font-size="10" fill="#78716c" letter-spacing="2">REC ● 00:20:26  ·  FRAME 087</text>
+<text x="542.0" y="40" font-size="11" fill="#f59e0b" letter-spacing="3">MODEL CARD</text>
+<text x="976.0" y="40" font-size="11" fill="#78716c" text-anchor="end">v20 · stable</text>
+<line x1="542.0" y1="52" x2="976.0" y2="52" stroke="#fff" stroke-opacity=".1"/>
+<text x="542.0" y="98" font-size="34" font-weight="700" fill="#fafaf9">Kabir</text><text x="542.0" y="134" font-size="34" font-weight="700" fill="#fcd34d">Gambhir</text>
+<text x="542.0" y="160" font-size="12.5" fill="#a8a29e">learns by building things from scratch</text>
+<line x1="542.0" y1="181" x2="976.0" y2="181" stroke="#fff" stroke-opacity=".06"/>
+<text x="542.0" y="198" font-size="10.5" fill="#78716c" letter-spacing="1.5">BASE</text><text x="642.0" y="198" font-size="12.5" fill="#e7e5e4">Delhi Technological University</text>
+<line x1="542.0" y1="211" x2="976.0" y2="211" stroke="#fff" stroke-opacity=".06"/>
+<text x="542.0" y="228" font-size="10.5" fill="#78716c" letter-spacing="1.5">DEGREE</text><text x="642.0" y="228" font-size="12.5" fill="#e7e5e4">B.Tech, Mathematics &amp; Computing · &#x27;28</text>
+<line x1="542.0" y1="241" x2="976.0" y2="241" stroke="#fff" stroke-opacity=".06"/>
+<text x="542.0" y="258" font-size="10.5" fill="#78716c" letter-spacing="1.5">SCORE</text><text x="642.0" y="258" font-size="12.5" fill="#e7e5e4">8.5 CGPA</text>
+<line x1="542.0" y1="271" x2="976.0" y2="271" stroke="#fff" stroke-opacity=".06"/>
+<text x="542.0" y="288" font-size="10.5" fill="#78716c" letter-spacing="1.5">TUNED ON</text><text x="642.0" y="288" font-size="12.5" fill="#e7e5e4">Deep Learning · LLMs · Statistics</text>
+<line x1="542.0" y1="301" x2="976.0" y2="301" stroke="#fff" stroke-opacity=".06"/>
+<text x="542.0" y="318" font-size="10.5" fill="#78716c" letter-spacing="1.5">TASK</text><text x="642.0" y="318" font-size="12.5" fill="#e7e5e4">Agents · Retrieval · Quant research</text>
+<line x1="542.0" y1="331" x2="976.0" y2="331" stroke="#fff" stroke-opacity=".06"/>
+<text x="542.0" y="348" font-size="10.5" fill="#78716c" letter-spacing="1.5">REACH</text><text x="642.0" y="348" font-size="12.5" fill="#e7e5e4">kabirgambhir2007@gmail.com</text>
+<text x="542.0" y="392" font-size="10.5" fill="#f59e0b" letter-spacing="3">CAPABILITIES</text>
+<rect x="542" y="402" width="63" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="574" y="418" font-size="11.5" fill="#fcd34d" text-anchor="middle">Python</text>
+<rect x="613" y="402" width="42" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="634" y="418" font-size="11.5" fill="#fcd34d" text-anchor="middle">C++</text>
+<rect x="663" y="402" width="42" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="684" y="418" font-size="11.5" fill="#fcd34d" text-anchor="middle">SQL</text>
+<rect x="712" y="402" width="70" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="748" y="418" font-size="11.5" fill="#fcd34d" text-anchor="middle">PyTorch</text>
+<rect x="791" y="402" width="92" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="837" y="418" font-size="11.5" fill="#fcd34d" text-anchor="middle">TensorFlow</text>
+<rect x="891" y="402" width="85" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="933" y="418" font-size="11.5" fill="#fcd34d" text-anchor="middle">LangGraph</text>
+<rect x="542" y="432" width="42" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="563" y="448" font-size="11.5" fill="#fcd34d" text-anchor="middle">RAG</text>
+<rect x="592" y="432" width="70" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="627" y="448" font-size="11.5" fill="#fcd34d" text-anchor="middle">FastAPI</text>
+<rect x="670" y="432" width="63" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="702" y="448" font-size="11.5" fill="#fcd34d" text-anchor="middle">Docker</text>
+<rect x="741" y="432" width="85" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="784" y="448" font-size="11.5" fill="#fcd34d" text-anchor="middle">Diffusion</text>
+<rect x="834" y="432" width="49" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="858" y="448" font-size="11.5" fill="#fcd34d" text-anchor="middle">LoRA</text>
+<rect x="542" y="462" width="92" height="23" fill="#f59e0b" fill-opacity=".07" stroke="#f59e0b" stroke-opacity=".45"/><text x="588" y="478" font-size="11.5" fill="#fcd34d" text-anchor="middle">Statistics</text>
+<text x="542.0" y="505" font-size="12" fill="#f59e0b">&gt; <tspan class="cur">_</tspan></text>
+</svg>
