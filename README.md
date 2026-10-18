@@ -1,61 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/Kabir2007"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&lines=Kabir+Gambhir;ML+%C2%B7+Transformers+%C2%B7+Multi-Agent+Systems;Building+models+from+scratch+on+a+CPU" alt="typing intro" /></a>
+<a href="https://github.com/Kabir2007"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&lines=Kabir+Gambhir;ML+%C2%B7+Transformers+%C2%B7+Multi-Agent+Systems;Learning+by+building+it+from+scratch" alt="typing intro" /></a>
 
-</div>
-
-<table align="center">
-<tr>
-<td valign="middle">
-
-<pre>
-                        ....:........
-                  .::::......::::::---:.
-                .:::.......:::.::::::::::::
-                ::..........::-=====--:-:::.
-                .....::...::-=+==---:---:
-                 ...-==-==::=++====--====:..
-                  ...:===============+=-:.
-                    .--===----=++++****+:
-               .....======-::====+*++===.
-       .............-======-::::.=+++==-
-   ...........    .....:---==--: :-==+==:.. ...
-.........                          .--:::...  ...
-.....                               .-------:.
-::.                                  :==++===-:.
-+++++=--:                             -============-
-+====--. ..                           .-=========---:
----::.                                  :---=======-:.
-====--::...                              .:::----==-:.
-====++=====-----::::::........::---==---------:::::::
------===-------========+++++-++++++++++=======-.   .:=++++++
-.......:::...:::::::---=====-========+====--:.     .::-+++++
-..................         ..:--------:::.    ....:::::--+++
-.....................................        .::::::::--::-+
-......................................      .::::----::-----
-::::::::::.........................:::::.::::-=-----===-:-==
-</pre>
-
-</td>
-<td valign="middle">
-
-<pre>
-<b>kabir@dtu</b>
-─────────────────────────────
-location   New Delhi, India
-education  B.Tech MCE · DTU '28
-cgpa       8.5
-focus      Deep Learning · LLMs
-           RAG · Multi-Agent Systems
-stack      Python · PyTorch · C++
-           LangGraph · FastAPI
-</pre>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+<img src="assets/profile-card.svg" alt="Kabir Gambhir profile card" width="860" />
 
 <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kabirgambhir2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -68,13 +15,14 @@ stack      Python · PyTorch · C++
 
 ## 👋 About Me
 
-I'm a second-year Mathematics & Computing student at **Delhi Technological University** who likes understanding models by building them: small Transformers trained on a laptop CPU, multi-agent pipelines that do data analysis end to end, and the statistics underneath both.
+I'm a second-year Mathematics & Computing student at **Delhi Technological University**. I like understanding how things work by building them myself: models on a small compute budget, data pipelines, and the probability and statistics underneath them. Outside code, I run finances for a debating society and take part in MUNs.
 
 ```text
-$ cat currently.log
-> training small models on tight compute budgets
-> building agentic data-analysis systems with LangGraph + RAG
-> Joint Treasurer, DelTechMUN & Debsoc
+$ cat interests.txt
+> deep learning, transformers and generative models
+> LLM agents and retrieval systems
+> stochastic processes, statistics and quantitative finance
+> cryptography and low-level systems
 ```
 
 ## 🚀 Featured Projects
@@ -84,40 +32,80 @@ $ cat currently.log
 <td width="50%" valign="top">
 
 ### ♟️ ChessBERT-Lite
-Encoder-only Transformer (**838K params, 9.6 MB**) in PyTorch that approximates Stockfish depth-10 evaluations, trained on 1M positions from Gigafish-3.8B.
+A **0.84M-parameter Transformer** distilled from Stockfish depth-10 evaluations, paired with alpha-beta search. Runs on CPU only.
 
-- Boards tokenized as 64 square tokens + castling/en passant token
-- AdamW, warmup + cosine, MSE on a tanh-squashed centipawn target
+- Boards tokenized as 64 square tokens + a castling/en passant token
 - **89.63%** sign agreement · **280.7 cp** MAE on 20K held-out positions
-- Plugged into a depth-4 alpha-beta search (transposition table, quiescence, batched CPU inference)
+- Depth-4 search with transposition table, quiescence and batched inference
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-444?style=flat-square&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/CPU--only-0071C5?style=flat-square&logo=intel&logoColor=white" />
 
-<a href="https://github.com/Kabir2007"><b>View repo →</b></a>
+<a href="https://github.com/Kabir2007/ChessBERT-Lite"><b>View repo →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Auto-Analysis-RAG
-Multi-agent system on **LangGraph** with planner, code-execution and visualisation agents sharing a typed state graph.
+### 🤖 auto_analysis_RAG
+Multi-agent **LangGraph** pipeline that takes a raw CSV through profiling, cleaning, EDA, statistical tests and baseline models, then answers questions over its own results with RAG.
 
-- CSV ingestion → profiling → cleaning → EDA → hypothesis tests → ML training
-- RAG-based conversational querying over generated analysis artefacts, with persistent retrieval
-- FastAPI backend + Streamlit UI
+- Planner, code-execution and visualisation agents on a typed state graph
+- Retrieval over generated artefacts with ChromaDB + Sentence Transformers
+- Streamlit UI, report generation
 
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-444?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
-<a href="https://github.com/Kabir2007"><b>View repo →</b></a>
+<a href="https://github.com/Kabir2007/auto_analysis_RAG"><b>View repo →</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 volforge
+Simulated options-trading research platform comparing a **Black-Scholes delta hedge** with an **LSTM-assisted** hedge and a **reinforcement-learning** adjustment on synthetic market paths.
+
+- LSTM volatility forecasting and a DQN agent in PyTorch
+- FastAPI backend with a Streamlit dashboard
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/RL-444?style=flat-square&logo=openai&logoColor=white" />
+
+<a href="https://github.com/Kabir2007/volforge"><b>View repo →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Cipher_Ledger
+Educational **homomorphic-encryption vault**: a client encrypts values with Paillier so an untrusted server can sum them without ever seeing them. Requests are RSA-signed with replay protection.
+
+- Dependency-free C++ crypto engine
+- Node.js + Express server, single-page web UI, Docker
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+<a href="https://github.com/Kabir2007/Cipher_Ledger"><b>View repo →</b></a>
 
 </td>
 </tr>
 </table>
 
+### 🗂️ More Repositories
+
+| Repo | What it is | Language |
+|---|---|---|
+| [`hackrx-rag-api`](https://github.com/Kabir2007/hackrx-rag-api) | RAG question-answering API over insurance PDFs: FAISS + Sentence Transformers retrieval with BM25, LLM answers via a modular FastAPI backend. | Python |
+| [`ECI_Data_Analysis`](https://github.com/Kabir2007/ECI_Data_Analysis) | Aggregate-only analytics on India's electoral rolls: coverage, demographic consistency and migration-linked stress (Maharashtra pilot). | Python |
+| [`syntheic_analysis`](https://github.com/Kabir2007/syntheic_analysis) | Synthetic data generation and analysis scripts for constituency-level data. | Python |
+| [`Vendor-Performance-Dashboard`](https://github.com/Kabir2007/Vendor-Performance-Dashboard) | Streamlit dashboard for procurement KPIs (defects, lead times, cost savings) across 5 suppliers and 777 purchase orders, with hypothesis testing. | Jupyter |
+| [`redislite`](https://github.com/Kabir2007/redislite) | Redis-compatible in-memory key-value server in C++17 (epoll, RESP, append-only log). Planned, built-from-scratch learning project. | C++ |
+| [`Cat_vs_dog_CNN`](https://github.com/Kabir2007/Cat_vs_dog_CNN) | Convolutional neural network for cat vs dog image classification. | Jupyter |
+| [`MNIST_ann`](https://github.com/Kabir2007/MNIST_ann) | Fully connected neural network on MNIST digit recognition. | Jupyter |
+| [`Unsupervised_learning`](https://github.com/Kabir2007/Unsupervised_learning) | Unsupervised learning experiments in a notebook. | Jupyter |
+
 ## ⚡ Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-161b22?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-161b22?style=flat-square&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-161b22?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-161b22?style=flat-square&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white" />
 
 </div>
 
@@ -159,5 +147,5 @@ Multi-agent system on **LangGraph** with planner, code-execution and visualisati
 
 <div align="center">
 <br>
-<sub><code>train small · measure honestly · ship</code></sub>
+<sub><code>build it · measure it honestly · ship it</code></sub>
 </div>
