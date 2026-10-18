@@ -1,13 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/Kabir2007"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&lines=Kabir+Gambhir;ML+%C2%B7+Transformers+%C2%B7+Multi-Agent+Systems;Learning+by+building+it+from+scratch" alt="typing intro" /></a>
-<img src="assets/profile-card.svg" alt="Kabir Gambhir profile card" width="900" />
+<img src="https://raw.githubusercontent.com/Kabir2007/Kabir2007/main/profile-card.svg" alt="Kabir Gambhir profile card" width="900" />
 
 
 <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kabirgambhir2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Kabir2007"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Kabir2007&style=for-the-badge&color=2dd4bf&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -119,6 +118,12 @@ Educational **homomorphic-encryption vault**: a client encrypts values with Pail
 | **Foundations** | DSA, Linear Algebra, Discrete Math, Probability, Stochastic Processes (Markov, Poisson, Queueing), DBMS, OS, CN |
 
 </details>
+
+## 📈 Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Kabir2007/Kabir2007/main/activity.svg" alt="Contribution activity over the last 12 months" width="900" />
+</div>
 
 ## 📊 By the Numbers
 
