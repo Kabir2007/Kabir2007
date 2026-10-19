@@ -60,19 +60,6 @@ Multi-agent **LangGraph** pipeline that takes a raw CSV through profiling, clean
 <tr>
 <td width="50%" valign="top">
 
-### 📈 volforge
-Simulated options-trading research platform comparing a **Black-Scholes delta hedge** with an **LSTM-assisted** hedge and a **reinforcement-learning** adjustment on synthetic market paths.
-
-- LSTM volatility forecasting and a DQN agent in PyTorch
-- FastAPI backend with a Streamlit dashboard
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/RL-444?style=flat-square&logo=openai&logoColor=white" />
-
-<a href="https://github.com/Kabir2007/volforge"><b>View repo →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
 ### 🔐 Cipher_Ledger
 Educational **homomorphic-encryption vault**: a client encrypts values with Paillier so an untrusted server can sum them without ever seeing them. Requests are RSA-signed with replay protection.
 
