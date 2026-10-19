@@ -119,23 +119,6 @@ Educational **homomorphic-encryption vault**: a client encrypts values with Pail
 
 </details>
 
-## 📈 Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kabir2007/Kabir2007/main/activity.svg" alt="Contribution activity over the last 12 months" width="900" />
-</div>
-
-## 📊 By the Numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kabir2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=Kabir2007&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
-
 ## 🎓 Credentials
 
 | | |
