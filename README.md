@@ -91,8 +91,7 @@ Educational **homomorphic-encryption vault**: a client encrypts values with Pail
 
 </div>
 
-<details>
-<summary><b>Everything I've worked with</b></summary>
+<b>Everything I've worked with</b>
 <br>
 
 | Area | Topics |
@@ -104,7 +103,6 @@ Educational **homomorphic-encryption vault**: a client encrypts values with Pail
 | **Deployment** | FastAPI, Streamlit, MLflow, Docker, Git, Google Colab |
 | **Foundations** | DSA, Linear Algebra, Discrete Math, Probability, Stochastic Processes (Markov, Poisson, Queueing), DBMS, OS, CN |
 
-</details>
 
 ## 🎓 Credentials
 
